@@ -1,0 +1,32 @@
+[
+    {
+      "id":1,
+      "image":"./assets/sher.jfif",
+      "title":"Shershah",
+      "actor":"Sidhart Malhotra"
+    },
+    {
+      "id":2,
+      "image":"./assets/bell.jfif",
+      "title":"Bell Bottom",
+      "actor":"Akshay Kumar"
+    },
+    {
+      "id":3,
+      "image":"./assets/ms dhoni.jpg",
+      "title":"MS Dhoni",
+      "actor":"Sushant Singh Rajput"
+    },
+    {
+      "id":4,
+      "image":"./assets/chhichore.jfif",
+      "title":"Chhichore",
+      "actor":"Sushant Singh Rajput"
+    },
+    {
+      "id":5,
+      "image":"./assets/dil.jfif",
+      "title":"Dil Bechara",
+      "actor":"Sushant Singh Rajput"
+    }
+  ]

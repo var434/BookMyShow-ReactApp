@@ -1,0 +1,17 @@
+Navbar.Brand{
+    width: 50px;
+    height: 30px;
+}
+.logo{
+    animation: colorchange 1.5s infinite;
+}
+@keyframes colorchange{
+    0%{color:chocolate ;}
+    25%{color: #ff0157 ;}
+    50%{color: rgb(52, 221, 18);}
+    75%{color: rgb(250, 230, 114);}
+    100%{color: #246edd;}
+}
+.d-flex{
+    color: green;
+}
