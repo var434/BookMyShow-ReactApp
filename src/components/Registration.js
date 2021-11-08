@@ -23,7 +23,7 @@ function Registration() {
             "email": emailaddress,
             "password": passwordd
         }
-        await axios.post('http://localhost:5000/user-register', UserDetails)
+        await axios.post('https://infinite-eyrie-76014.herokuapp.com/user-register', UserDetails)
         .then((data)=>{ 
             Swal.fire({
             title: `<strong>${data.data.message}</strong>`,
@@ -39,7 +39,7 @@ function Registration() {
 
 
         // console.log(UserDetails);
-        //  const response = await axios.post('http://localhost:5000/user-register', UserDetails);
+        //  const response = await axios.post('https://infinite-eyrie-76014.herokuapp.com/user-register', UserDetails);
         // console.log(response);
 
     }
